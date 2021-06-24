@@ -1,5 +1,6 @@
 import Table from "./components/Table/Table.jsx";
 import "./App.css";
+import "./components/Table/Table.css";
 
 function App() {
   return (
